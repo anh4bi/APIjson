@@ -1,14 +1,38 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+   "posts":[
+      {
+         "id":1,
+         "user":"nartc",
+         "title":"Commander-in-contempt: A president who values himself before his troops",
+         "body":"The Atlantic magazine reports that, “according to four people with firsthand knowledge of the discussion,” Donald Trump skipped visiting the historic Belleau Wood cemetery in France, where thousands of American World War I dead are buried, because he wondered, “Why should I go to that cemetery? It’s filled with losers."
+      },
+     {
+         "id":2,
+         "user":"johnson",
+         "title":"Conspiracy theories have hounded America since the start, just used in new ways",
+         "body":"Americans have always believed in conspiracy theories. Theories about witches conspiring with Satan drove American colonists to drown and crush supposedly guilty parties. Conspiratorial accusations aimed at King George III make up a significant portion of the Declaration of Independence."
+      },
+     {
+         "id":3,
+         "user":"jimmy",
+         "title":"Authentic wins Ky. Derby, gives Bob Baffert tying 6th victory",
+         "body":"He was bummed before the horses left the paddock after Thousand Words reared up and fell on its side, getting disqualified and injuring Baffert’s assistant trainer. That emotion was quickly replaced by Authentic’s front-running victory that gave Baffert a record-tying sixth Derby win."
+      },
+     
+   ],
+   "comments":[
+      {
+         "id":1,
+         "body":"some comment",
+         "postId":1
+      },
+      {
+         "id":2,
+         "body":"some comment",
+         "postId":1
+      }
+   ],
+   "profile":{
+      "name":"typicode"
+   }
 }
