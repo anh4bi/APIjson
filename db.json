@@ -47,35 +47,35 @@
         }
     ],
     [
-    {
-      kind: 'phimbo',
-      title: 'Phim Bộ dài tập',
-      movies: []
-    },
-    {
-      kind: 'phimngan',
-      title: 'Phim ngắn',
-      movies: []
-    },
-    {
-      kind: 'phimhaihuoc',
-      title: 'Phim Hài hước',
-      movies: []
-    },
-    {
-      kind: 'phimvientuong',
-      title: 'Phim Viễn tưởng',
-      movies: []
-    },
-    {
-      kind: 'phimhoathinh',
-      title: 'Phim Hoạt hình',
-      movies: []
-    },
-    {
-      kind: 'phimgiadinh',
-      title: 'Phim Gia đình',
-      movies: []
-    },
-  ]
+  {
+    "kind": "phimbo",
+    "title": "Phim Bộ dài tập",
+    "movies": []
+  },
+  {
+    "kind": "phimngan",
+    "title": "Phim ngắn",
+    "movies": []
+  },
+  {
+    "kind": "phimhaihuoc",
+    "title": "Phim Hài hước",
+    "movies": []
+  },
+  {
+    "kind": "phimvientuong",
+    "title": "Phim Viễn tưởng",
+    "movies": []
+  },
+  {
+    "kind": "phimhoathinh",
+    "title": "Phim Hoạt hình",
+    "movies": []
+  },
+  {
+    "kind": "phimgiadinh",
+    "title": "Phim Gia đình",
+    "movies": []
+  }
+]
 }
