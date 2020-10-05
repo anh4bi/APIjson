@@ -1,49 +1,48 @@
 {
   "video": [
     {
-      title: "phim so 1", // ten phim
-      slug: "phimso1", // slug tu title
-      year: 2019, // nam phat hanh
-      kind: "phimbo", // the loai
-      category: ["hai", "hoathinh"], // phan loai
-      description: "Day la bo phim so 1", // mo ta
-      source:
-        "https://drive.google.com/uc?export=download&id=19aldzZ1mWLlDB_6TISBpWTb9tlRG87La", // link source phim
-      poster:
-        "https://d1csarkz8obe9u.cloudfront.net/posterpreviews/movie-poster-template-design-21a1c803fe4ff4b858de24f5c91ec57f_screen.jpg?ts=1574144362", // anh poster ngoai
-      imageSource:
-        "https://d1csarkz8obe9u.cloudfront.net/posterpreviews/movie-poster-template-design-21a1c803fe4ff4b858de24f5c91ec57f_screen.jpg?ts=1574144362", // anh thumnail
-      dateUpload: "2020-10-04 23:11" // ngay upload
+      'title': "phim so 1",
+      'slug': "phimso1", 
+      'year': 2019, 
+      'kind': "phimbo", 
+      'category': ["hai", "hoathinh"], 
+      'description': "Day la bo phim so 1", 
+      'source':
+        "https://drive.google.com/uc?export=download&id=19aldzZ1mWLlDB_6TISBpWTb9tlRG87La", 
+      'poster':
+        "https://d1csarkz8obe9u.cloudfront.net/posterpreviews/movie-poster-template-design-21a1c803fe4ff4b858de24f5c91ec57f_screen.jpg?ts=1574144362",
+      'imageSource':
+        "https://d1csarkz8obe9u.cloudfront.net/posterpreviews/movie-poster-template-design-21a1c803fe4ff4b858de24f5c91ec57f_screen.jpg?ts=1574144362",
+      'dateUpload': "2020-10-04 23:11"
     },
     {
-      title: "phim so 2", // ten phim
-      slug: "phimso2", // slug tu title
-      year: 2019, // nam phat hanh
-      kind: "phimbo", // the loai
-      category: ["hai", "hoathinh"], // phan loai
-      description: "Day la bo phim so 1", // mo ta
-      source:
-        "https://drive.google.com/uc?export=download&id=19aldzZ1mWLlDB_6TISBpWTb9tlRG87La", // link source phim
-      poster:
-        "https://d1csarkz8obe9u.cloudfront.net/posterpreviews/movie-poster-template-design-21a1c803fe4ff4b858de24f5c91ec57f_screen.jpg?ts=1574144362", // anh poster ngoai
-      imageSource:
-        "https://d1csarkz8obe9u.cloudfront.net/posterpreviews/movie-poster-template-design-21a1c803fe4ff4b858de24f5c91ec57f_screen.jpg?ts=1574144362", // anh thumnail
-      dateUpload: "2020-10-04 23:11" // ngay upload
-    },
+      'title': "phim so 2",
+      'slug': "phimso2",
+      'year': 2019, 
+      'kind': "phimbo", 
+      'category': ["hai", "hoathinh"], 
+      'description': "Day la bo phim so 1", 
+      'source':
+        "https://drive.google.com/uc?export=download&id=19aldzZ1mWLlDB_6TISBpWTb9tlRG87La", 
+      'poster':
+        "https://d1csarkz8obe9u.cloudfront.net/posterpreviews/movie-poster-template-design-21a1c803fe4ff4b858de24f5c91ec57f_screen.jpg?ts=1574144362", 
+      'imageSource':
+        "https://d1csarkz8obe9u.cloudfront.net/posterpreviews/movie-poster-template-design-21a1c803fe4ff4b858de24f5c91ec57f_screen.jpg?ts=1574144362", 
+      'dateUpload': "2020-10-04 23:11" 
     {
-      title: "phim so 3", // ten phim
-      slug: "phimso3", // slug tu title
-      year: 2019, // nam phat hanh
-      kind: "phimbo", // the loai
-      category: ["hai", "hoathinh"], // phan loai
-      description: "Day la bo phim so 1", // mo ta
-      source:
-        "https://drive.google.com/uc?export=download&id=19aldzZ1mWLlDB_6TISBpWTb9tlRG87La", // link source phim
-      poster:
-        "https://d1csarkz8obe9u.cloudfront.net/posterpreviews/movie-poster-template-design-21a1c803fe4ff4b858de24f5c91ec57f_screen.jpg?ts=1574144362", // anh poster ngoai
-      imageSource:
-        "https://d1csarkz8obe9u.cloudfront.net/posterpreviews/movie-poster-template-design-21a1c803fe4ff4b858de24f5c91ec57f_screen.jpg?ts=1574144362", // anh thumnail
-      dateUpload: "2020-10-04 23:11" // ngay upload
+      'title': "phim so 3", 
+      'slug': "phimso3", 
+      'year': 2019, 
+      'kind': "phimbo", 
+      'category': ["hai", "hoathinh"], 
+      'description': "Day la bo phim so 1", 
+      'source':
+        "https://drive.google.com/uc?export=download&id=19aldzZ1mWLlDB_6TISBpWTb9tlRG87La", 
+      'poster':
+        "https://d1csarkz8obe9u.cloudfront.net/posterpreviews/movie-poster-template-design-21a1c803fe4ff4b858de24f5c91ec57f_screen.jpg?ts=1574144362", 
+      'imageSource':
+        "https://d1csarkz8obe9u.cloudfront.net/posterpreviews/movie-poster-template-design-21a1c803fe4ff4b858de24f5c91ec57f_screen.jpg?ts=1574144362", 
+      'dateUpload': "2020-10-04 23:11" 
     }
   ],
   
