@@ -45,5 +45,37 @@
             "imageSource": "https://d1csarkz8obe9u.cloudfront.net/posterpreviews/movie-poster-template-design-21a1c803fe4ff4b858de24f5c91ec57f_screen.jpg?ts=1574144362",
             "dateUpload": "2020-10-04 23:11"
         }
-    ]
+    ],
+    [
+    {
+      kind: 'phimbo',
+      title: 'Phim Bộ dài tập',
+      movies: []
+    },
+    {
+      kind: 'phimngan',
+      title: 'Phim ngắn',
+      movies: []
+    },
+    {
+      kind: 'phimhaihuoc',
+      title: 'Phim Hài hước',
+      movies: []
+    },
+    {
+      kind: 'phimvientuong',
+      title: 'Phim Viễn tưởng',
+      movies: []
+    },
+    {
+      kind: 'phimhoathinh',
+      title: 'Phim Hoạt hình',
+      movies: []
+    },
+    {
+      kind: 'phimgiadinh',
+      title: 'Phim Gia đình',
+      movies: []
+    },
+  ]
 }
