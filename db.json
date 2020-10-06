@@ -6,8 +6,9 @@
       "year": 2019,
       "kind": "phimbo",
       "category": [
-        "hai",
-        "hoathinh"
+        "phimngan",
+        "phimhoathinh",
+        "phimhaihuoc"
       ],
       "description": "Day la bo phim so 1",
       "source": "https://drive.google.com/uc?export=download&id=19aldzZ1mWLlDB_6TISBpWTb9tlRG87La",
@@ -21,8 +22,9 @@
       "year": 2019,
       "kind": "phimbo",
       "category": [
-        "hai",
-        "hoathinh"
+        "phimngan",
+        "phimhoathinh",
+        "phimbo"
       ],
       "description": "Day la bo phim so 1",
       "source": "https://drive.google.com/uc?export=download&id=19aldzZ1mWLlDB_6TISBpWTb9tlRG87La",
@@ -36,8 +38,9 @@
       "year": 2019,
       "kind": "phimbo",
       "category": [
-        "hai",
-        "hoathinh"
+        "phimbo",
+        "hoathinh",
+        "phimvientuong"
       ],
       "description": "Day la bo phim so 1",
       "source": "https://drive.google.com/uc?export=download&id=19aldzZ1mWLlDB_6TISBpWTb9tlRG87La",
@@ -70,11 +73,6 @@
     {
       "kind": "phimhoathinh",
       "title": "Phim Hoạt hình",
-      "movies": []
-    },
-    {
-      "kind": "phimgiadinh",
-      "title": "Phim Gia đình",
       "movies": []
     }
   ]
