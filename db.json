@@ -51,27 +51,27 @@
   ],
   "category": [
     {
-      "kind": "phimbo",
+      "name": "phimbo",
       "title": "Phim Bộ dài tập",
       "movies": []
     },
     {
-      "kind": "phimngan",
+      "name": "phimngan",
       "title": "Phim ngắn",
       "movies": []
     },
     {
-      "kind": "phimhaihuoc",
+      "name": "phimhaihuoc",
       "title": "Phim Hài hước",
       "movies": []
     },
     {
-      "kind": "phimvientuong",
+      "name": "phimvientuong",
       "title": "Phim Viễn tưởng",
       "movies": []
     },
     {
-      "kind": "phimhoathinh",
+      "name": "phimhoathinh",
       "title": "Phim Hoạt hình",
       "movies": []
     }
