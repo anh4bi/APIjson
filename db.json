@@ -74,6 +74,11 @@
       "name": "phimhoathinh",
       "title": "Phim Hoạt hình",
       "movies": []
+    },
+    {
+      "name": "phimle",
+      "title": "Phim Lẻ",
+      "movies": []
     }
   ]
 }
